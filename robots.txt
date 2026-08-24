@@ -18,4 +18,4 @@ User-agent: DotBot
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://afkspin-es.pages.dev/sitemap.xml
+Sitemap: https://afkspin-es-d04.pages.dev/sitemap.xml
